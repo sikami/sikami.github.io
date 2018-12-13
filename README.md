@@ -1,1 +1,1 @@
-permalink: ./maximus2.html
+permalink: /maximus2.html
