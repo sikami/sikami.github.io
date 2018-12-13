@@ -1,3 +1,3 @@
 ---
-permalink: /maximus2.html
+permalink: /index.html
 ---
