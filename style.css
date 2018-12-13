@@ -1,0 +1,308 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+#crop
+{
+  position: relative;
+}
+
+#links
+{
+    position: relative;
+    float: right;
+    font-family: Maiandra GD;
+    font-size: 20px;
+
+    top: -10px;
+}
+
+#links a
+{
+  text-decoration: none;
+  border-radius: 10px;
+  color: black;
+  margin: 20px;
+  padding: 0px 20px 0px 0px;
+
+}
+
+#links a:hover
+{
+  color: yellow;
+}
+
+#banner1
+{
+  font-family: harrington;
+  text-align: justify;
+  color: rgba(76,58,2,1);
+  font-size: 25px;
+  line-height: 50px;
+  top: 70;
+  left: 40;
+  transform: translate(2%, -190%);
+}
+
+#select
+{
+  position: relative;
+  font-family: Calibri bold;
+  font-size: 35px;
+  text-align: center;
+  Top: -120px;
+}
+
+#selectkid
+{
+  position: relative;
+  text-align: center;
+  top: -155px;
+  font-family: Maiandra GD;
+  font-size: 16px;
+}
+
+#line
+{
+  position: relative;
+  text-align: center;
+  top: -170px;
+}
+
+#separator
+{
+  visibility: hidden;
+}
+#allselect
+{
+  position: relative;
+  top: 90px;
+}
+#line2
+{
+  position: relative;
+  text-align: center;
+  top: -330px;
+}
+
+#up img
+{
+  position: relative;
+  float: right;
+  top: -250px;
+  opacity: 0.2;
+}
+
+#up1 img
+{
+  position: relative;
+  float: right;
+  top: -100px;
+  opacity: 0.2;
+}
+
+#up2 img
+{
+  position: relative;
+  float: right;
+  top: -220px;
+  opacity: 0.2;
+}
+
+#up img:hover,
+#up1 img:hover,
+#up2 img:hover
+{
+  opacity: 1;
+}
+
+#email
+{
+  text-align: center;
+  position: relative;
+  top: -50px;
+}
+
+#one
+{
+  position: relative;
+  top: -159%;
+  left:10%;
+}
+
+#two
+{
+  position: relative;
+  top: -240%;
+  left: 40%;
+}
+
+#three
+{
+  position: relative;
+  top: -307%;
+  left: 70.5%;
+}
+
+.button
+{
+  position: relative;
+  top: -570px;
+}
+.buttons a
+{
+  position: relative;
+  text-decoration: none;
+  font-size: 30px;
+  text-align: center;
+  margin: 300px 500px 0px 0px;
+
+}
+
+#selectallcontact
+{
+  position: relative;
+  top: 120px;
+}
+
+#separator1
+{
+  visibility: hidden;
+}
+
+#contact
+{
+  position: relative;
+  font-family: Calibri bold;
+  font-size: 35px;
+  text-align: center;
+  Top: -120px;
+  left: 50px;
+
+}
+
+#contact1
+{
+  position: relative;
+  text-align: center;
+  top: -148px;
+  font-family: Maiandra GD;
+  font-size: 16px;
+}
+
+.backg
+{
+  position: absolute;
+  top: -70px;
+  opacity: 0.8;
+  width: 35%;
+}
+
+#aboutme
+{
+  position: relative;
+  font-family: Calibri bold;
+  font-size: 35px;
+  text-align: center;
+}
+
+#aboutme p.p
+{
+  position: relative;
+  text-align: center;
+  top: -350px;
+  font-family: Maiandra GD;
+  font-size: 16px;
+}
+
+.aboutme
+{
+  position: relative;
+  bottom: -30px;
+  left: -350px;
+}
+
+.rain
+{
+  position: relative;
+  font-family: calibri;
+  font-size: 15px;
+  bottom: 250px;
+  left: 20px;
+  line-height: 25px;
+  text-align: center;
+  margin: 0px 400px 0px 400px;
+}
+
+#line3
+{
+  position: relative;
+  text-align: center;
+  top: -450px;
+}
+
+#selectallaboutme
+{
+  position: relative;
+  top: 300px;
+}
+
+#separator2
+{
+  visibility: hidden;
+  position: relative;
+  top: 300px;
+}
+
+
+.fa {
+  position: relative;
+  top: 100px;
+  left: 600px;
+  padding: 20px;
+  font-size: 30px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+#onea
+{
+  display:none;
+}
+
+#twoa
+{
+  display:none;
+}
+
+#threea
+{
+  display:none;
+}
+
+#foura
+{
+  display:none;
+}
