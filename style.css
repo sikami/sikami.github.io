@@ -149,6 +149,15 @@ html,body
   left: 70.5%;
 }
 
+#aboutmebackground img
+{
+  position: relative;
+  bottom: 550px;
+  left: 400px;
+  opacity: 0.5;
+  z-index: -1;
+}
+
 .button
 {
   position: relative;
